@@ -1,0 +1,3 @@
+include ':jar'
+include ':aar'
+include ':normal'
