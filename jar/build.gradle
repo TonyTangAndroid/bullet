@@ -38,4 +38,5 @@ dependencies {
     //dagger
     api 'com.google.dagger:dagger:2.20'
 
+    testImplementation 'com.github.TonyTangAndroid:tester:1.0.2'
 }
