@@ -1,4 +1,4 @@
 include ':tester'
-include ':jar'
-include ':aar'
+include ':jarr'
+include ':aarr'
 include ':normal'
