@@ -1,4 +1,5 @@
 include ':tester'
 include ':jarr'
+include ':aarr2'
 include ':aarr'
 include ':normal'
